@@ -3,7 +3,7 @@
 ## Introduction
 The hospitality industry often fails to better analyze their bookings, cancellations, etc. as the industry is quite volatile. A lot of dynamic factors impact their business continuity. The inspiration for this project came in as we often find ourselves intrigued by the below questions:
 
-  •	Grounds on which a hotel is likely to receive a cancellation.
+  •	What is the ground on which a hotel is likely to receive a cancellation?
   
   •	What would be the expected footfall of the customers in future?
 
